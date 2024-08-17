@@ -1,0 +1,18 @@
+
+# models
+/models
+
+# debug
+npm-debug.log*
+
+# local env files
+.env*.local
+
+# replay buffer
+/replay_buffer_storage
+
+# runs
+/runs
+
+
+/venv_mario_rl
